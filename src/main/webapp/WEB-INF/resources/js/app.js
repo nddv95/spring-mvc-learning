@@ -1,0 +1,1 @@
+var app = angular.module('library', ['ngSanitize', 'ui.select', 'ui.bootstrap']);
